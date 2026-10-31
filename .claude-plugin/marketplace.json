@@ -1,0 +1,12 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "tallgrass107" },
+  "description": "Claude Code mods by tallgrass107",
+  "plugins": [
+    {
+      "name": "agent-info",
+      "source": "./agent-info",
+      "description": "Live progress bar, elapsed time and estimated cost for the running task; toggle with /agent-info"
+    }
+  ]
+}

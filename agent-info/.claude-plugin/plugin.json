@@ -1,0 +1,10 @@
+{
+  "name": "agent-info",
+  "version": "0.1.0",
+  "description": "Live progress bar, elapsed time and estimated cost for the running task; toggle with /agent-info",
+  "author": { "name": "tallgrass107", "url": "https://github.com/tallgrass107" },
+  "homepage": "https://github.com/tallgrass107/claude-mods",
+  "repository": "https://github.com/tallgrass107/claude-mods",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
